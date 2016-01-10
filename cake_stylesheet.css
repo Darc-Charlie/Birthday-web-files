@@ -1,0 +1,162 @@
+.BackPoster {
+    position: fixed;
+    width: 150%;
+    margin: -25px 0 0 -70px;
+}
+
+li {
+	display: inline;
+	color: #e4e4e4;
+    font-weight: bold;
+    font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+    font-size: 12px;	
+}
+
+.Header1 {
+  position: relative;
+  width: 800px;
+  height: 70px;
+  background-color:  #ccf5ff;
+  margin: auto;
+  border-radius: 15px;
+}
+
+.Header3 {
+  position: relative;
+  width: 800px;
+  height: 70px;
+  background-color: #ff3333;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.Header2 {
+  position: relative;
+  width: 600px;
+  height: 25px;
+  background-color: #ffff00;
+  margin: 15px auto 15px auto;
+
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+}
+
+.mainbody {
+    position: relative;
+    width: 700px;
+    height: 1000px;
+    background-color: #ccff99;
+    margin: 30px auto 15px auto;
+}
+ 
+.signedby {
+    display: inline;
+    font-size: 2em;
+    font-family: 'Arizonia', Helvetica, sans-serif;
+}
+
+p {
+  font-size: 2em;
+  font-family: 'Indie Flower';
+}
+
+.message {
+  position: absolute; 
+  width: 650px;
+  height: 450px;
+  border: 2px solid #003300;
+  margin: 105px 25px 20px 25px;
+}
+
+.msghead {
+    position: absolute;
+   margin: 10px auto 20px 10px;
+}
+
+.fromline {
+  margin: 10px 10px 10px 15px;
+}
+
+.mmsg {
+  margin: 10px 10px 20px 15px;
+}
+
+.bottomline {
+  position: absolute;
+  width: 500px;
+  margin: 960px 100px 10px 110px;
+}
+
+.bottomtext {
+  font-family: serif;
+  font-size: 10px;
+  text-align: center;;
+  text-shadow: 2px 2px 4px #333333;
+}
+
+.img1{ 
+   position: relative;
+   border: 1px solid black;
+   height: 200px;
+   width: 200px;
+   float:  right;
+   margin: -910px 10px 10px 10px;
+}
+
+.img2{ 
+   position: relative;
+   border: 1px solid black;
+   height: 200px;
+   width: 200px;
+   float:  left;
+   margin: -800px 10px 10px 10px;
+}
+
+.img3{ 
+   position: relative;
+   border: 1px solid black;
+   height: 200px;
+   width: 200px;
+   float:  right;
+   margin: -600px 70px 10px 10px;
+}
+
+.img4{ 
+   position: relative;
+   border: 1px solid black;
+   height: 200px;
+   width: 200px;
+   float:  left;
+   margin: -500px 70px 10px 50px;
+}
+
+.img5{ 
+   position: relative;
+   border: 1px solid black;
+   height: 200px;
+   width: 200px;
+   float:  right;
+   margin: -300px 20px 10px 50px;
+}
+
+
+img {
+  height: 200px;
+   width: 200px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
+
+
+
