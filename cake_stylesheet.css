@@ -99,48 +99,38 @@ p {
 }
 
 .img1{ 
-   position: relative;
-   border: 1px solid black;
    height: 200px;
    width: 200px;
    float:  right;
-   margin: -910px 10px 10px 10px;
+   margin: 10px -250px 10px 10px;
 }
 
 .img2{ 
-   position: relative;
-   border: 1px solid black;
    height: 200px;
    width: 200px;
    float:  left;
-   margin: -800px 10px 10px 10px;
+   margin: 100px 10px 10px -300px;
 }
 
 .img3{ 
-   position: relative;
-   border: 1px solid black;
    height: 200px;
    width: 200px;
    float:  right;
-   margin: -600px 70px 10px 10px;
+   margin: 280px -320px 10px 10px;
 }
 
 .img4{ 
-   position: relative;
-   border: 1px solid black;
    height: 200px;
    width: 200px;
    float:  left;
-   margin: -500px 70px 10px 50px;
+   margin: 380px 10px 10px -250px;
 }
 
-.img5{ 
-   position: relative;
-   border: 1px solid black;
+.img5{
    height: 200px;
    width: 200px;
    float:  right;
-   margin: -300px 20px 10px 50px;
+   margin: 600px -290px 10px 10px;
 }
 
 
