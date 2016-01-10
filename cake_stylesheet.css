@@ -98,7 +98,8 @@ p {
   text-shadow: 2px 2px 4px #333333;
 }
 
-.img1{ 
+.img1{
+   position: relative;
    height: 200px;
    width: 200px;
    float:  right;
